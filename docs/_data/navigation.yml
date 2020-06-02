@@ -1,4 +1,7 @@
 # example navigation
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 foo:
   - title: "Parent Link 1"
     url: /parent-1-page-url/
